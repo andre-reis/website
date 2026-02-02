@@ -14,6 +14,6 @@ canonical_url: 'https://reisandre.com'
 
 <div id="describe-text">
 	<h2>I love to help teams build awesome web applications.</h2>
-	<h2>Enthusiast about distributed systems, UX, books, running and <strike>cooking</strike> eating.</h2>
-	<h3><strong>Think, then execute!</strong></h3>
+	<h2>Enthusiast about distributed systems, UX, pilates, running and <strike>cooking</strike> eating.</h2>
+	<h3><strong>Experiment and ship frequently!</strong></h3>
 </div>

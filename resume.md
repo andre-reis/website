@@ -11,7 +11,11 @@ canonical_url: 'https://reisandre.com/resume'
 ## SKILLS
 **Languages & Frameworks**
 
-```vb
+```kotlin
+Kotlin.apply { SpringBoot + Coroutines + Arrow }.also { buildAwesomeAPIs() }
+```
+
+```cs
 C#.All( x => .NET && MVC && EPiServer && inRiver && Entity Framework );
 ```
 
@@ -20,28 +24,26 @@ import { React Native, Angular, Node, Express, MongoDB } from 'JavaScript'
 ```
 
 ```SQL
-SELECT * FROM MS SQL Server
+SELECT * FROM PostgreSQL
 ```
 
-**DB/Communication**
+**DB**
 
-`ElasticSearch, Kafka, Postgres`
+`PostgreSQL, ElasticSearch, Redis`
 
-**Serverless**
+**Cloud**
 
-`Azure > Function, Storage, Service Bus, Redis, ..`
+`Azure > Function, Storage, Service Bus, ..`
 
-`AWS > DynamoDB, S3, Lambda, ..`
+`AWS > SQS/SNS, DynamoDB, S3, Lambda, ..`
 
 **Operations**
 
-`Git`
-
 `Azure Portal / AWS Console`
 
-`Grafana / Prometheus / Stackify / New Relic`
+`Datadog / Grafana / Prometheus / Stackify / New Relic`
 
-`TeamCity / Octopus / Github / Gitlab / ArgoCD`
+`Github / Gitlab / ArgoCD / Split.io`
 
 `Kubernetes / Docker / Cloudformation`
 
